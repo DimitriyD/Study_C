@@ -1,7 +1,7 @@
 #include <stdarg.h>
 #include <stddef.h>
 #include <setjmp.h>
-#include "..\cmocka\include\cmocka.h"
+#include "\cmocka\include\cmocka.h"
 
 
 static void test_1(void **state) {
